@@ -9,20 +9,5 @@ plugins {
 
 allprojects {
     group = "com.github.yashctn88.candlechartkmm"
-    version = "0.0.4"
+    version = "0.0.5"
 }
-
-//subprojects {
-//    apply(plugin = "org.jlleitschuh.gradle.ktlint") // Version should be inherited from parent
-//
-//    // Optionally configure plugin
-//    configure<org.jlleitschuh.gradle.ktlint.KtlintExtension> {
-//        version.set("1.0.1")
-//    }
-//}
-//
-//tasks.register<Copy>("setUpGitHooks") {
-//    group = "help"
-//    from("$rootDir/.hooks")
-//    into("$rootDir/.git/hooks")
-//}

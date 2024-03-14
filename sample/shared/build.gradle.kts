@@ -5,8 +5,8 @@ plugins {
 }
 
 kotlin {
+    withSourcesJar(publish = false)
     androidTarget()
-
     listOf(
         iosX64(),
         iosArm64(),
