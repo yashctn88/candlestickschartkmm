@@ -1,3 +1,5 @@
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.yashctn88/candlechartkmm.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:io.github.yashctn88%20AND%20a:{candlechartkmm})
+
 ## CandlestickChart Composable
 
 The `CandlestickChart` composable function is a customizable UI component designed to display financial candlestick chart data. It provides a visual representation of the open, close, high, and low prices of a financial instrument over a specified time period.
