@@ -1,4 +1,4 @@
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.yashctn88/candlechartkmm.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:io.github.yashctn88%20AND%20a:{candlechartkmm})
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.yashctn88/candlechartkmm.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:io.github.yashctn88%20AND%20a:candlechartkmm)
 
 ## CandlestickChart Composable
 
